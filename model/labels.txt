@@ -1,0 +1,10 @@
+0 dew
+1 fogmog
+2 frost
+3 hail
+4 lighting
+5 rain
+6 rime
+7 rainbow
+8 sandstorm
+9 snow
